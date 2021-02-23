@@ -2,7 +2,7 @@ body{
     background-color: black;
     text-align: center;
 }
-h1{
+.header-title{
  font-family: verdana;
  font-weight: normal;
  font-size: 50px;
