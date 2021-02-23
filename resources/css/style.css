@@ -2,6 +2,8 @@ body{
     background-color: black;
     text-align: center;
 }
+
+/* HEADINGS*/
 .header-title{
  font-family: verdana;
  font-weight: normal;
@@ -10,19 +12,24 @@ body{
  text-align: center;   
 }
 
+.header-second{
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color:white;
+}
+
+.header-sub{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+/* LINK*/
 .link-dl{
     color: aquamarine;
     font-size: 16px;
 }
 
-/*h2{
-    font-family: verdana;
-    /*font-weight: 300px;
-    font-size: 32px;
-}*/
 
-h3{
-    font-family: verdana;
-    font-size: 21px;
-    color: gray;
-}
+
