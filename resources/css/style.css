@@ -22,13 +22,21 @@ body{
 .header-sub{
     font-family: verdana;
     font-size: 21px;
-    color: gray;
+    color: grey;
 }
 
 /* LINK*/
 .link-dl{
     color: aquamarine;
     font-size: 16px;
+}
+
+/* FOOTER */
+
+.footer-copy{
+    font-size: 21px;
+    color: grey;
+    text-align: right;
 }
 
 
